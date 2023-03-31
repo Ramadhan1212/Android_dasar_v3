@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Android_dasar_v3</string>
+    <string name="title_searchUser">Search User</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_profile">Profile</string>
+    <string name="delay">3000</string>
+    <string name="search">Search Here</string>
+    <string name="ph_name">Full Name</string>
+    <string name="ph_html_url">Github Url</string>
+    <string name="ph_repo_url">Repo URL</string>
+    <string name="ph_type">User Type</string>
+    <string name="ph_un">Ipoy</string>
+    <string name="ph_home">Bandung Kota Kembang</string>
+    <string name="ph_wp">GuluGulu</string>
+    <string name="ph_fcount">300501</string>
+    <string name="ph_folingcount">273023</string>
+    <string name="ph_repository">Repository</string>
+    <string name="ph_repocount">231512</string>
+    <string name="titles_followers">Followers</string>
+    <string name="titles_following">Following</string>
+    <string name="nullwp">That\'s  a Secret</string>
+    <string name="nullhome">Somewhere in the World</string>
+    <string name="change_theme_mode">Change Theme Mode</string>
+    <string name="about">About</string>
+    <string name="guest">Guest</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="t_appname">: GitHubUserApp</string>
+    <string name="about_name">App Name</string>
+    <string name="about_version">Version</string>
+    <string name="t_version">: 3</string>
+    <string name="about_by">By</string>
+    <string name="t_by">: Iqbal Putra Ramadhan</string>
+    <string name="about_update">Last Updated</string>
+    <string name="t_update">: 27 Mei 2023</string>
+    <string name="setting">Setting</string>
+</resources>
